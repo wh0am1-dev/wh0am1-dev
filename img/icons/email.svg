@@ -1,14 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#222;stroke:#eee;stroke-width:0.125;}</style>
-  </defs>
-  <title>email</title>
-  <g id="Layer_2" data-name="Layer 2">
-    <g id="email">
-      <g id="email-2" data-name="email">
-        <rect class="cls-1" width="24" height="24"/>
-        <path class="cls-2" d="M19,4H5A3,3,0,0,0,2,7V17a3,3,0,0,0,3,3H19a3,3,0,0,0,3-3V7A3,3,0,0,0,19,4Zm-.67,2L12,10.75,5.67,6ZM19,18H5a1,1,0,0,1-1-1V7.25l7.4,5.55a1,1,0,0,0,.6.2,1,1,0,0,0,.6-.2L20,7.25V17A1,1,0,0,1,19,18Z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 24 24" version="1.1" id="svg15" sodipodi:docname="email.svg" inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   <metadata id="metadata19">
+      <rdf:RDF>
+         <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            <dc:title>email</dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="2560" inkscape:window-height="1417" id="namedview17" showgrid="false" inkscape:zoom="42" inkscape:cx="7.4166667" inkscape:cy="12" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg15" />
+   <defs id="defs4">
+      <style id="style2">.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style>
+   </defs>
+   <title id="title6">email</title>
+   <g id="Layer_2" data-name="Layer 2">
+      <g id="email">
+         <g id="email-2" data-name="email">
+            <rect class="cls-1" width="24" height="24" id="rect8" />
+            <path class="cls-2" d="M19,4H5A3,3,0,0,0,2,7V17a3,3,0,0,0,3,3H19a3,3,0,0,0,3-3V7A3,3,0,0,0,19,4Zm-.67,2L12,10.75,5.67,6ZM19,18H5a1,1,0,0,1-1-1V7.25l7.4,5.55a1,1,0,0,0,.6.2,1,1,0,0,0,.6-.2L20,7.25V17A1,1,0,0,1,19,18Z" id="path10" />
+         </g>
       </g>
-    </g>
-  </g>
+   </g>
+   <path style="fill:#e0e0e0;stroke-width:0.0238095;fill-opacity:1" d="M 4.8458718,17.973479 C 4.6487798,17.944773 4.4641537,17.848155 4.3079992,17.692001 4.1464921,17.530494 4.0562839,17.351817 4.0247438,17.130952 4.0095188,17.024337 4.0007733,15.216371 4.0004716,12.11311 L 4,7.2619354 7.7568005,10.07943 C 10.2821,11.973334 11.552348,12.911868 11.6318,12.94251 11.800242,13.007472 12.202327,13.006825 12.369048,12.941324 12.448002,12.910305 13.753044,11.946062 16.244048,10.078244 L 20,7.2619354 19.999528,12.11311 C 19.999227,15.216371 19.990481,17.024337 19.975256,17.130952 19.943716,17.351817 19.853508,17.530494 19.692001,17.692001 19.530494,17.853508 19.351817,17.943716 19.130952,17.975256 18.921641,18.005147 5.0514521,18.003421 4.8458718,17.973479 Z" id="path25" />
+   <path style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.0238095" d="M 8.8505755,8.3730774 5.7022249,6.0119048 8.8589829,6.005865 C 10.5952,6.0025432 13.429207,6.0025432 15.156778,6.005865 L 18.297815,6.0119048 15.234464,8.3095238 C 13.549621,9.5732143 12.132371,10.635742 12.085019,10.670696 L 11.998926,10.73425 Z" id="path850" />
 </svg>

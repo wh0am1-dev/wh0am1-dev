@@ -1,16 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#222;stroke:#eee;stroke-width:0.125;}</style>
-  </defs>
-  <title>linkedin</title>
-  <g id="Layer_2" data-name="Layer 2">
-    <g id="linkedin">
-      <g id="linkedin-2" data-name="linkedin">
-        <rect class="cls-1" width="24" height="24" transform="translate(24 24) rotate(180)"/>
-        <path class="cls-2" d="M20,22H18.33a2,2,0,0,1-2-2V14.63a.92.92,0,0,0-.69-.93.84.84,0,0,0-.67.19.85.85,0,0,0-.3.65V20a2,2,0,0,1-2,2H11a2,2,0,0,1-2-2V14.54a6.5,6.5,0,1,1,13,0V20A2,2,0,0,1,20,22ZM15.5,11.69a3.73,3.73,0,0,1,.47,0,2.91,2.91,0,0,1,2.36,2.9V20H20V14.54a4.5,4.5,0,1,0-9,0V20h1.67V14.54a2.85,2.85,0,0,1,2.83-2.85Z"/>
-        <path class="cls-2" d="M6,22H4a2,2,0,0,1-2-2V10A2,2,0,0,1,4,8H6a2,2,0,0,1,2,2V20A2,2,0,0,1,6,22ZM4,10H4V20H6V10Z"/>
-        <path class="cls-2" d="M5,7A3,3,0,1,1,8,4,3,3,0,0,1,5,7ZM5,3A1,1,0,1,0,6,4,1,1,0,0,0,5,3Z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 24 24" version="1.1" id="svg19" sodipodi:docname="linkedin.svg" inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   <metadata id="metadata23">
+      <rdf:RDF>
+         <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            <dc:title>linkedin</dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="2560" inkscape:window-height="1417" id="namedview21" showgrid="false" inkscape:zoom="42" inkscape:cx="12" inkscape:cy="12" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg19" />
+   <defs id="defs4">
+      <style id="style2">.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style>
+   </defs>
+   <title id="title6">linkedin</title>
+   <g id="Layer_2" data-name="Layer 2">
+      <g id="linkedin">
+         <g id="linkedin-2" data-name="linkedin">
+            <rect class="cls-1" width="24" height="24" transform="translate(24 24) rotate(180)" id="rect8" />
+            <path class="cls-2" d="M20,22H18.33a2,2,0,0,1-2-2V14.63a.92.92,0,0,0-.69-.93.84.84,0,0,0-.67.19.85.85,0,0,0-.3.65V20a2,2,0,0,1-2,2H11a2,2,0,0,1-2-2V14.54a6.5,6.5,0,1,1,13,0V20A2,2,0,0,1,20,22ZM15.5,11.69a3.73,3.73,0,0,1,.47,0,2.91,2.91,0,0,1,2.36,2.9V20H20V14.54a4.5,4.5,0,1,0-9,0V20h1.67V14.54a2.85,2.85,0,0,1,2.83-2.85Z" id="path10" />
+            <path class="cls-2" d="M6,22H4a2,2,0,0,1-2-2V10A2,2,0,0,1,4,8H6a2,2,0,0,1,2,2V20A2,2,0,0,1,6,22ZM4,10H4V20H6V10Z" id="path12" />
+            <path class="cls-2" d="M5,7A3,3,0,1,1,8,4,3,3,0,0,1,5,7ZM5,3A1,1,0,1,0,6,4,1,1,0,0,0,5,3Z" id="path14" />
+         </g>
       </g>
-    </g>
-  </g>
+   </g>
+   <path style="fill:#e0e0e0;stroke-width:0.0238095;fill-opacity:1" d="M 4,15 V 10 H 5 6 V 15 20 H 5 4 Z" id="path848" />
+   <path style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.0238095" d="M 4.8494601,4.9723709 C 4.6558908,4.9462474 4.4294307,4.8283531 4.290905,4.6815893 3.9166727,4.285101 3.9217989,3.6927678 4.3027503,3.312868 4.4663449,3.1497249 4.6473775,3.0557164 4.8511905,3.0280681 5.1765075,2.9839372 5.4634808,3.0794793 5.6920008,3.3079992 5.8504479,3.4664463 5.9444957,3.6489411 5.9719319,3.8511905 6.0627737,4.5208428 5.5201122,5.06288 4.8494601,4.9723709 Z" id="path850" />
+   <path style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.0238095" d="M 11.00049,17.315476 C 11.00076,15.838988 11.011055,14.475595 11.023369,14.285714 11.075862,13.476241 11.317404,12.736685 11.738789,12.095238 13.291717,9.7313148 16.577798,9.3550828 18.603856,11.309239 19.439519,12.115245 19.900728,13.115246 19.976631,14.285714 19.988945,14.475595 19.99924,15.838988 19.99951,17.315476 L 20,20 H 19.166667 18.333333 V 17.134071 C 18.333333,14.020331 18.336227,14.095606 18.199866,13.662597 17.913226,12.75238 17.181207,12.03263 16.25,11.74541 16.049998,11.683722 16.009528,11.679514 15.642857,11.682274 15.209917,11.685533 14.931674,11.723966 14.630952,11.822045 13.633784,12.14727 12.881176,13.019598 12.702996,14.05669 12.671802,14.23825 12.666667,14.673286 12.666667,17.134071 V 20 H 11.833333 11 Z" id="path852" />
 </svg>

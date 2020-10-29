@@ -1,15 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs>
-    <style>.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#222;stroke:#eee;stroke-width:0.125;}</style>
-  </defs>
-  <title>facebook</title>
-  <g id="Layer_2" data-name="Layer 2">
-    <g id="facebook">
-      <g id="facebook-2" data-name="facebook">
-        <rect class="cls-1" width="24" height="24" transform="translate(24 24) rotate(180)"/>
-        <rect class="cls-1" width="24" height="24" transform="translate(24 24) rotate(180)"/>
-        <path class="cls-2" d="M13,22H9a1,1,0,0,1-1-1V14.8H6a1,1,0,0,1-1-1V10.2a1,1,0,0,1,1-1H8V7.5A5.77,5.77,0,0,1,14,2h3a1,1,0,0,1,1,1V6.6a1,1,0,0,1-1,1H14V9.2h3a1,1,0,0,1,.8.39,1,1,0,0,1,.16.88l-1,3.6a1,1,0,0,1-1,.73H14V21A1,1,0,0,1,13,22Zm-3-2h2V13.8a1,1,0,0,1,1-1h2.24l.44-1.6H13a1,1,0,0,1-1-1V7.5a2,2,0,0,1,2-1.9h2V4H14a3.78,3.78,0,0,0-4,3.5v2.7a1,1,0,0,1-1,1H7v1.6H9a1,1,0,0,1,1,1Z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 24 24" version="1.1" id="svg17" sodipodi:docname="facebook.svg" inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   <metadata id="metadata21">
+      <rdf:RDF>
+         <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            <dc:title>facebook</dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="2560" inkscape:window-height="1417" id="namedview19" showgrid="false" inkscape:zoom="42" inkscape:cx="12" inkscape:cy="12" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg17" />
+   <defs id="defs4">
+      <style id="style2">.cls-1{fill:#fff;opacity:0;}.cls-2{fill:#231f20;}</style>
+   </defs>
+   <title id="title6">facebook</title>
+   <g id="Layer_2" data-name="Layer 2">
+      <g id="facebook">
+         <g id="facebook-2" data-name="facebook">
+            <rect class="cls-1" width="24" height="24" transform="translate(24 24) rotate(180)" id="rect8" />
+            <rect class="cls-1" width="24" height="24" transform="translate(24 24) rotate(180)" id="rect10" />
+            <path class="cls-2" d="M13,22H9a1,1,0,0,1-1-1V14.8H6a1,1,0,0,1-1-1V10.2a1,1,0,0,1,1-1H8V7.5A5.77,5.77,0,0,1,14,2h3a1,1,0,0,1,1,1V6.6a1,1,0,0,1-1,1H14V9.2h3a1,1,0,0,1,.8.39,1,1,0,0,1,.16.88l-1,3.6a1,1,0,0,1-1,.73H14V21A1,1,0,0,1,13,22Zm-3-2h2V13.8a1,1,0,0,1,1-1h2.24l.44-1.6H13a1,1,0,0,1-1-1V7.5a2,2,0,0,1,2-1.9h2V4H14a3.78,3.78,0,0,0-4,3.5v2.7a1,1,0,0,1-1,1H7v1.6H9a1,1,0,0,1,1,1Z" id="path12" />
+         </g>
       </g>
-    </g>
-  </g>
+   </g>
+   <path style="fill:#e0e0e0;stroke-width:0.0238095;fill-opacity:1" d="M 9.9943821,16.767857 9.9880952,13.535714 9.9219729,13.394521 C 9.8319664,13.202327 9.7088345,13.058446 9.542186,12.950736 9.3011632,12.794955 9.2168713,12.785714 8.0369665,12.785714 H 7 V 12 11.214286 H 8.0369665 C 9.2168713,11.214286 9.3011632,11.205045 9.542186,11.049264 9.7088345,10.941554 9.8319664,10.797673 9.9219729,10.605479 L 9.9880952,10.464286 10.001248,8.8928571 C 10.013898,7.38158 10.016458,7.3115219 10.068134,7.0626226 10.233151,6.2678167 10.579111,5.6319155 11.146162,5.0811243 11.607684,4.6328355 12.076285,4.3540275 12.678571,4.1693711 13.162642,4.020959 13.196683,4.018168 14.660714,4.0068563 L 16,3.9965084 V 4.7958733 5.5952381 H 14.894952 C 13.702689,5.5952381 13.595795,5.6037464 13.276919,5.7240265 12.673034,5.9518123 12.197423,6.4935731 12.047869,7.1240171 12.000369,7.3242521 11.998908,7.3851202 12.005293,8.8978267 L 12.011905,10.464286 12.078027,10.605479 C 12.168034,10.797673 12.291165,10.941554 12.457814,11.049264 12.707445,11.210609 12.74847,11.214286 14.298914,11.214286 15.442672,11.214286 15.6697,11.219658 15.659408,11.246477 15.644635,11.284976 15.238095,12.760114 15.238095,12.775221 15.238095,12.780992 14.719915,12.785714 14.086583,12.785714 13.408514,12.785714 12.882341,12.79564 12.806821,12.809857 12.502015,12.867235 12.22571,13.084341 12.0883,13.374433 L 12.011905,13.535714 12.005618,16.767857 11.999331,20 H 11 10.000669 Z" id="path846" />
 </svg>
