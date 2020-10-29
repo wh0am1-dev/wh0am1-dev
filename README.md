@@ -1,6 +1,6 @@
 # :shinto_shrine: Carlos Aguilar
 
-### `self-taught polymath` `f: coffee → code`
+### `f: coffee → code` <br> `self-taught polymath`
 
 [<img alt="website" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/outline/svg/home-outline.svg" />][www] [<img alt="email" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/outline/svg/email-outline.svg" />][mail] [<img alt="linkedin" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/outline/svg/linkedin-outline.svg" />][linkedin] [<img alt="twitter" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/outline/svg/twitter-outline.svg" />][twitter] [<img alt="facebook" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/outline/svg/facebook-outline.svg" />][facebook] [<img alt="itch.io" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/outline/svg/save-outline.svg" />][itch.io] [<img alt="tumblr" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/outline/svg/moon-outline.svg" />][tumblr]
 
