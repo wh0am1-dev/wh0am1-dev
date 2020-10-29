@@ -1,5 +1,3 @@
-<div align="center">
-
 # :shinto_shrine: Carlos Aguilar :shinto_shrine:
 
 [<img alt="website" width="32px" src="img/icons/home.svg" />][www] [<img alt="email" width="32px" src="img/icons/email.svg" />][mail] [<img alt="linkedin" width="32px" src="img/icons/linkedin.svg" />][linkedin] [<img alt="twitter" width="32px" src="img/icons/twitter.svg" />][twitter] [<img alt="facebook" width="32px" src="img/icons/facebook.svg" />][facebook] [<img alt="itch.io" width="32px" src="img/icons/itchio.svg" />][itch.io] [<img alt="tumblr" width="32px" src="img/icons/tumblr.svg" />][tumblr]
@@ -40,8 +38,6 @@
 ## :headphones: sonar
 
 [![spotify](https://npaas.vercel.app/api/spotify)](https://open.spotify.com/user/neko250)
-
-</div>
 
 [www]: https://wh0am1.dev
 [mail]: mailto:carlos.aguilar.112358@gmail.com
