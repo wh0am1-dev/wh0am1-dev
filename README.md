@@ -10,19 +10,8 @@
 ## :man_technologist: code
 
 <img alt="neko250's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=neko250&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&title_color=ffd700&text_color=e0e0e0&icon_color=ffd700&bg_color=303030" />
-<br>
-<img alt="vscode" width="37px" src="img/tech/vscode.png" />
-<img alt="js" width="37px" src="img/tech/js.png" />
-<img alt="node" width="37px" src="img/tech/node.png" />
-<img alt="react" width="37px" src="img/tech/react.png" />
-<img alt="html" width="37px" src="img/tech/html.png" />
-<img alt="css" width="37px" src="img/tech/css.png" />
-<img alt="sass" width="37px" src="img/tech/sass.png" />
-<img alt="graphql" width="37px" src="img/tech/graphql.png" />
-<img alt="sql" width="37px" src="img/tech/sql.png" />
-<img alt="git" width="37px" src="img/tech/git.png" />
-<img alt="github" width="37px" src="img/tech/github.png" />
-<img alt="terminal" width="37px" src="img/tech/terminal.png" />
+
+[<img alt="vscode" width="37px" src="img/tech/vscode.png" />][vscode] [<img alt="js" width="37px" src="img/tech/js.png" />][js] [<img alt="node" width="37px" src="img/tech/node.png" />][node] [<img alt="react" width="37px" src="img/tech/react.png" />][react] [<img alt="html" width="37px" src="img/tech/html.png" />][html] [<img alt="css" width="37px" src="img/tech/css.png" />][css] [<img alt="sass" width="37px" src="img/tech/sass.png" />][sass] [<img alt="graphql" width="37px" src="img/tech/graphql.png" />][graphql] [<img alt="sql" width="37px" src="img/tech/sql.png" />][sql] [<img alt="git" width="37px" src="img/tech/git.png" />][git] [<img alt="github" width="37px" src="img/tech/github.png" />][github] [<img alt="terminal" width="37px" src="img/tech/terminal.png" />][terminal]
 
 ### :zap: monitor
 
@@ -46,3 +35,15 @@
 [facebook]: https://facebook.com/mr.carlos.aguilar
 [itch.io]: https://neko250.itch.io
 [tumblr]: https://shatteredcontinuum.tumblr.com
+[vscode]: https://code.visualstudio.com
+[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[node]: https://nodejs.org
+[react]: https://reactjs.org
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[sass]: https://sass-lang.com
+[graphql]: https://graphql.org
+[sql]: https://en.wikipedia.org/wiki/SQL
+[git]: https://git-scm.com
+[github]: https://github.com
+[terminal]: https://ohmyz.sh
