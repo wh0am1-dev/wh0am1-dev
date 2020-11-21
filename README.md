@@ -16,10 +16,10 @@
 ### :zap: monitor
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/yeray697/CommonScriptsContainer/pull/5) in [yeray697/CommonScriptsContainer](https://github.com/yeray697/CommonScriptsContainer)
-2. 💪 Opened PR [#4](https://github.com/yeray697/CommonScriptsContainer/pull/4) in [yeray697/CommonScriptsContainer](https://github.com/yeray697/CommonScriptsContainer)
-3. 💪 Opened PR [#1](https://github.com/GTFOCrew/gtfo-tool/pull/1) in [GTFOCrew/gtfo-tool](https://github.com/GTFOCrew/gtfo-tool)
-4. 🗣 Commented on [#1303](https://github.com/zyedidia/micro/issues/1303) in [zyedidia/micro](https://github.com/zyedidia/micro)
+1. 🗣 Commented on [#3](https://github.com/yeray697/CommonScriptsContainer/issues/3) in [yeray697/CommonScriptsContainer](https://github.com/yeray697/CommonScriptsContainer)
+2. 💪 Opened PR [#5](https://github.com/yeray697/CommonScriptsContainer/pull/5) in [yeray697/CommonScriptsContainer](https://github.com/yeray697/CommonScriptsContainer)
+3. 💪 Opened PR [#4](https://github.com/yeray697/CommonScriptsContainer/pull/4) in [yeray697/CommonScriptsContainer](https://github.com/yeray697/CommonScriptsContainer)
+4. 💪 Opened PR [#1](https://github.com/GTFOCrew/gtfo-tool/pull/1) in [GTFOCrew/gtfo-tool](https://github.com/GTFOCrew/gtfo-tool)
 <!--END_SECTION:activity-->
 
 <br>
