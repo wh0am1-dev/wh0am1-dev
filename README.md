@@ -16,10 +16,10 @@
 ### :zap: monitor
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/yeray697/CommonScriptsContainer/issues/3) in [yeray697/CommonScriptsContainer](https://github.com/yeray697/CommonScriptsContainer)
-2. 💪 Opened PR [#5](https://github.com/yeray697/CommonScriptsContainer/pull/5) in [yeray697/CommonScriptsContainer](https://github.com/yeray697/CommonScriptsContainer)
-3. 💪 Opened PR [#4](https://github.com/yeray697/CommonScriptsContainer/pull/4) in [yeray697/CommonScriptsContainer](https://github.com/yeray697/CommonScriptsContainer)
-4. 💪 Opened PR [#1](https://github.com/GTFOCrew/gtfo-tool/pull/1) in [GTFOCrew/gtfo-tool](https://github.com/GTFOCrew/gtfo-tool)
+1. ❌ Closed PR [#23](https://github.com/Neko250/rlspain/pull/23) in [Neko250/rlspain](https://github.com/Neko250/rlspain)
+2. ❌ Closed PR [#22](https://github.com/Neko250/rlspain/pull/22) in [Neko250/rlspain](https://github.com/Neko250/rlspain)
+3. ❌ Closed PR [#21](https://github.com/Neko250/rlspain/pull/21) in [Neko250/rlspain](https://github.com/Neko250/rlspain)
+4. 🗣 Commented on [#3](https://github.com/yeray697/CommonScriptsContainer/issues/3) in [yeray697/CommonScriptsContainer](https://github.com/yeray697/CommonScriptsContainer)
 <!--END_SECTION:activity-->
 
 <br>
