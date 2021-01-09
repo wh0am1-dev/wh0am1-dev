@@ -16,10 +16,10 @@
 ### :zap: monitor
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#23](https://github.com/Neko250/rlspain/pull/23) in [Neko250/rlspain](https://github.com/Neko250/rlspain)
-2. ❌ Closed PR [#22](https://github.com/Neko250/rlspain/pull/22) in [Neko250/rlspain](https://github.com/Neko250/rlspain)
-3. ❌ Closed PR [#21](https://github.com/Neko250/rlspain/pull/21) in [Neko250/rlspain](https://github.com/Neko250/rlspain)
-4. 🗣 Commented on [#3](https://github.com/yeray697/CommonScriptsContainer/issues/3) in [yeray697/CommonScriptsContainer](https://github.com/yeray697/CommonScriptsContainer)
+1. 🗣 Commented on [#40](https://github.com/GTFOCrew/gtfo/issues/40) in [GTFOCrew/gtfo](https://github.com/GTFOCrew/gtfo)
+2. 🗣 Commented on [#39](https://github.com/GTFOCrew/gtfo/issues/39) in [GTFOCrew/gtfo](https://github.com/GTFOCrew/gtfo)
+3. ❌ Closed PR [#23](https://github.com/Neko250/rlspain/pull/23) in [Neko250/rlspain](https://github.com/Neko250/rlspain)
+4. ❌ Closed PR [#22](https://github.com/Neko250/rlspain/pull/22) in [Neko250/rlspain](https://github.com/Neko250/rlspain)
 <!--END_SECTION:activity-->
 
 <br>
