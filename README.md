@@ -9,7 +9,7 @@
 
 ## :man_technologist: code
 
-[<img alt="neko250's github stats" src="https://github-readme-stats.vercel.app/api?username=neko250&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&title_color=ffd700&text_color=e0e0e0&icon_color=ffd700&bg_color=202020" />][stats]
+[<img alt="neko250's github stats" src="https://github-readme-stats.vercel.app/api?username=neko250&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&title_color=ffd700&text_color=e0e0e0&icon_color=ffd700&bg_color=202020" />][rank]
 
 [<img alt="vscode" width="37px" src="img/tech/vscode.png" />][vscode] [<img alt="js" width="37px" src="img/tech/js.png" />][js] [<img alt="react" width="37px" src="img/tech/react.png" />][react] [<img alt="html" width="37px" src="img/tech/html.png" />][html] [<img alt="css" width="37px" src="img/tech/css.png" />][css] [<img alt="sass" width="37px" src="img/tech/sass.png" />][sass] [<img alt="node" width="37px" src="img/tech/node.png" />][node] [<img alt="graphql" width="37px" src="img/tech/graphql.png" />][graphql] [<img alt="sql" width="37px" src="img/tech/sql.png" />][sql] [<img alt="git" width="37px" src="img/tech/git.png" />][git] [<img alt="github" width="37px" src="img/tech/github.png" />][github] [<img alt="terminal" width="37px" src="img/tech/terminal.png" />][terminal]
 
@@ -36,6 +36,7 @@
 [itch.io]: https://neko250.itch.io
 [tumblr]: https://shatteredcontinuum.tumblr.com
 [stats]: https://sourcerer.io/neko250
+[rank]: https://profile.codersrank.io/user/neko250
 [vscode]: https://code.visualstudio.com
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [node]: https://nodejs.org
