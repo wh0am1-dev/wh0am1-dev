@@ -1,6 +1,6 @@
 # :shinto_shrine: Carlos Aguilar :shinto_shrine:
 
-[<img alt="website" width="32px" src="img/icons/home.svg" />][www] [<img alt="email" width="32px" src="img/icons/email.svg" />][mail] [<img alt="linkedin" width="32px" src="img/icons/linkedin.svg" />][linkedin] [<img alt="twitter" width="32px" src="img/icons/twitter.svg" />][twitter] [<img alt="facebook" width="32px" src="img/icons/facebook.svg" />][facebook] [<img alt="itch.io" width="32px" src="img/icons/itchio.svg" />][itch.io] [<img alt="tumblr" width="32px" src="img/icons/tumblr.svg" />][tumblr]
+[<img alt="website" width="32px" src="img/icons/home.svg" />][www] [<img alt="email" width="32px" src="img/icons/email.svg" />][mail] [<img alt="linkedin" width="32px" src="img/icons/linkedin.svg" />][linkedin] [<img alt="twitter" width="32px" src="img/icons/twitter.svg" />][twitter] [<img alt="itch.io" width="32px" src="img/icons/itchio.svg" />][itch.io] [<img alt="tumblr" width="32px" src="img/icons/tumblr.svg" />][tumblr]
 
 ### `self-taught polymath`
 ### `f: coffee → code`
@@ -29,10 +29,9 @@
 [![spotify](https://npaas.vercel.app/api/spotify)](https://open.spotify.com/user/neko250)
 
 [www]: https://wh0am1.dev
-[mail]: mailto:carlos.aguilar.112358@gmail.com
+[mail]: mailto:hi@wh0am1.dev
 [linkedin]: https://linkedin.com/in/carlosaguilardev
 [twitter]: https://twitter.com/neko250
-[facebook]: https://facebook.com/mr.carlos.aguilar
 [itch.io]: https://neko250.itch.io
 [tumblr]: https://shatteredcontinuum.tumblr.com
 [stats]: https://sourcerer.io/neko250
