@@ -16,10 +16,10 @@
 ### :zap: monitor
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/GTFOCrew/gtfo/issues/40) in [GTFOCrew/gtfo](https://github.com/GTFOCrew/gtfo)
-2. 🗣 Commented on [#39](https://github.com/GTFOCrew/gtfo/issues/39) in [GTFOCrew/gtfo](https://github.com/GTFOCrew/gtfo)
-3. ❌ Closed PR [#23](https://github.com/Neko250/rlspain/pull/23) in [Neko250/rlspain](https://github.com/Neko250/rlspain)
-4. ❌ Closed PR [#22](https://github.com/Neko250/rlspain/pull/22) in [Neko250/rlspain](https://github.com/Neko250/rlspain)
+1. ❗️ Closed issue [#1](https://github.com/Neko250/pixelart-tuts/issues/1) in [Neko250/pixelart-tuts](https://github.com/Neko250/pixelart-tuts)
+2. ❗️ Opened issue [#11](https://github.com/Neko250/H4X0R.nws/issues/11) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
+3. ❗️ Opened issue [#10](https://github.com/Neko250/H4X0R.nws/issues/10) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
+4. ❗️ Closed issue [#30](https://github.com/GTFOCrew/gtfo/issues/30) in [GTFOCrew/gtfo](https://github.com/GTFOCrew/gtfo)
 <!--END_SECTION:activity-->
 
 <br>
