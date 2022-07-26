@@ -16,10 +16,10 @@
 ### :zap: monitor
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Neko250/pixelart-tuts/issues/1) in [Neko250/pixelart-tuts](https://github.com/Neko250/pixelart-tuts)
-2. ❗️ Opened issue [#11](https://github.com/Neko250/H4X0R.nws/issues/11) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
-3. ❗️ Opened issue [#10](https://github.com/Neko250/H4X0R.nws/issues/10) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
-4. ❗️ Closed issue [#30](https://github.com/GTFOCrew/gtfo/issues/30) in [GTFOCrew/gtfo](https://github.com/GTFOCrew/gtfo)
+1. ❗️ Opened issue [#13](https://github.com/Neko250/H4X0R.nws/issues/13) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
+2. ❗️ Opened issue [#12](https://github.com/Neko250/H4X0R.nws/issues/12) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
+3. ❗️ Closed issue [#10](https://github.com/Neko250/H4X0R.nws/issues/10) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
+4. 🗣 Commented on [#10](https://github.com/Neko250/H4X0R.nws/issues/10) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
 <!--END_SECTION:activity-->
 
 <br>
