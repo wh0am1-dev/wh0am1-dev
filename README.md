@@ -16,10 +16,10 @@
 ### :zap: monitor
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/Neko250/H4X0R.nws/issues/13) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
-2. ❗️ Opened issue [#12](https://github.com/Neko250/H4X0R.nws/issues/12) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
-3. ❗️ Closed issue [#10](https://github.com/Neko250/H4X0R.nws/issues/10) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
-4. 🗣 Commented on [#10](https://github.com/Neko250/H4X0R.nws/issues/10) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
+1. ❗️ Closed issue [#13](https://github.com/Neko250/H4X0R.nws/issues/13) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
+2. 🗣 Commented on [#13](https://github.com/Neko250/H4X0R.nws/issues/13) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
+3. 🗣 Commented on [#13](https://github.com/Neko250/H4X0R.nws/issues/13) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
+4. ❗️ Closed issue [#12](https://github.com/Neko250/H4X0R.nws/issues/12) in [Neko250/H4X0R.nws](https://github.com/Neko250/H4X0R.nws)
 <!--END_SECTION:activity-->
 
 <br>
