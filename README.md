@@ -2,7 +2,9 @@
 
 # :shinto_shrine: Carlos Aguilar :shinto_shrine:
 
-[<img alt="website" width="32px" src="img/icons/home.svg" />][www] [<img alt="email" width="32px" src="img/icons/email.svg" />][mail] [<img alt="linkedin" width="32px" src="img/icons/linkedin.svg" />][linkedin] [<img alt="twitter" width="32px" src="img/icons/twitter.svg" />][twitter] [<img alt="itch.io" width="32px" src="img/icons/itchio.svg" />][itch.io] [<img alt="tumblr" width="32px" src="img/icons/tumblr.svg" />][tumblr]
+[<img alt="website" width="32px" src="img/icons/home.svg" />][www] [<img alt="email" width="32px" src="img/icons/email.svg" />][mail] [<img alt="linkedin" width="32px" src="img/icons/linkedin.svg" />][linkedin] [<img alt="twitter" width="32px" src="img/icons/twitter.svg" />][twitter]
+
+<!-- [<img alt="itch.io" width="32px" src="img/icons/itchio.svg" />][itch.io] [<img alt="tumblr" width="32px" src="img/icons/tumblr.svg" />][tumblr] -->
 
 ### `f: coffee → code`
 ### `self-taught polymath`
