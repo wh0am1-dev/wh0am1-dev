@@ -1,4 +1,4 @@
-<div align='center'>
+<div align="center">
 
 # :shinto_shrine: Carlos Aguilar :shinto_shrine:
 
@@ -6,16 +6,17 @@
 
 <!-- [<img alt="itch.io" width="32px" src="img/icons/itchio.svg" />][itch.io] [<img alt="tumblr" width="32px" src="img/icons/tumblr.svg" />][tumblr] -->
 
-### `f: coffee → code`
-### `self-taught polymath`
+### f: coffee → code
+<!-- ### `self-taught polymath` -->
 
 <br>
 
 ## :man_technologist: tech stack
 
-[<img alt="vscode" width="37px" src="img/tech/vscode.png" />][vscode] [<img alt="js" width="37px" src="img/tech/js.png" />][js] [<img alt="react" width="37px" src="img/tech/react.png" />][react] [<img alt="html" width="37px" src="img/tech/html.png" />][html] [<img alt="css" width="37px" src="img/tech/css.png" />][css] [<img alt="sass" width="37px" src="img/tech/sass.png" />][sass] [<img alt="node" width="37px" src="img/tech/node.png" />][node] [<img alt="graphql" width="37px" src="img/tech/graphql.png" />][graphql] [<img alt="sql" width="37px" src="img/tech/sql.png" />][sql] [<img alt="git" width="37px" src="img/tech/git.png" />][git] [<img alt="github" width="37px" src="img/tech/github.png" />][github] [<img alt="terminal" width="37px" src="img/tech/terminal.png" />][terminal]
+[<img alt="vscode" width="37px" src="img/tech/vscode.png" />][vscode] [<img alt="js" width="37px" src="img/tech/js.png" />][js] [<img alt="react" width="37px" src="img/tech/react.png" />][react] [<img alt="html" width="37px" src="img/tech/html.png" />][html] [<img alt="css" width="37px" src="img/tech/css.png" />][css] [<img alt="sass" width="37px" src="img/tech/sass.png" />][sass]  
+[<img alt="node" width="37px" src="img/tech/node.png" />][node] [<img alt="graphql" width="37px" src="img/tech/graphql.png" />][graphql] [<img alt="sql" width="37px" src="img/tech/sql.png" />][sql] [<img alt="git" width="37px" src="img/tech/git.png" />][git] [<img alt="github" width="37px" src="img/tech/github.png" />][github] [<img alt="terminal" width="37px" src="img/tech/terminal.png" />][terminal]
 
-[<img alt="carlos' github stats" src="https://github-readme-stats.vercel.app/api?username=wh0am1-dev&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&title_color=ffd700&text_color=e0e0e0&icon_color=ffd700&bg_color=202020" />][rank]
+<!-- [<img alt="carlos' github stats" src="https://github-readme-stats.vercel.app/api?username=wh0am1-dev&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&title_color=ffd700&text_color=e0e0e0&icon_color=ffd700&bg_color=202020" />][rank] -->
 
 <br>
 
