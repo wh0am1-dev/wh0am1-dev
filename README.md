@@ -15,7 +15,8 @@
 
 <br>
 
-[<img alt="vscode" width="32px" src="img/tech/vscode.png" />][vscode] [<img alt="js" width="32px" src="img/tech/js.png" />][js] [<img alt="react" width="32px" src="img/tech/react.png" />][react] [<img alt="html" width="32px" src="img/tech/html.png" />][html] [<img alt="css" width="32px" src="img/tech/css.png" />][css] [<img alt="sass" width="32px" src="img/tech/sass.png" />][sass] [<img alt="node" width="32px" src="img/tech/node.png" />][node] [<img alt="graphql" width="32px" src="img/tech/graphql.png" />][graphql] [<img alt="sql" width="32px" src="img/tech/sql.png" />][sql] [<img alt="git" width="32px" src="img/tech/git.png" />][git] [<img alt="github" width="32px" src="img/tech/github.png" />][github] [<img alt="terminal" width="32px" src="img/tech/terminal.png" />][terminal]
+[<img alt="vscode" width="32px" src="img/tech/vscode.png" />][vscode] [<img alt="js" width="32px" src="img/tech/js.png" />][js] [<img alt="react" width="32px" src="img/tech/react.png" />][react] [<img alt="html" width="32px" src="img/tech/html.png" />][html] [<img alt="css" width="32px" src="img/tech/css.png" />][css] [<img alt="sass" width="32px" src="img/tech/sass.png" />][sass]  
+[<img alt="node" width="32px" src="img/tech/node.png" />][node] [<img alt="graphql" width="32px" src="img/tech/graphql.png" />][graphql] [<img alt="sql" width="32px" src="img/tech/sql.png" />][sql] [<img alt="git" width="32px" src="img/tech/git.png" />][git] [<img alt="github" width="32px" src="img/tech/github.png" />][github] [<img alt="terminal" width="32px" src="img/tech/terminal.png" />][terminal]
 
 [<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=wh0am1-dev&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&title_color=fbbf24&text_color=f5f5f4&icon_color=fbbf24&bg_color=292524" />][rank]
 
