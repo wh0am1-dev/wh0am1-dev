@@ -20,6 +20,8 @@
 
 [<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=wh0am1-dev&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&title_color=fbbf24&text_color=f5f5f4&icon_color=fbbf24&bg_color=292524" />][rank]
 
+[<img alt="github stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=wh0am1-dev&layout=compact&langs_count=20&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&title_color=fbbf24&text_color=f5f5f4&icon_color=fbbf24&bg_color=292524" />][rank]
+
 <br><br>
 
 <img width="64px" src="img/emoji/headphone.png" />
@@ -36,7 +38,6 @@
 [x]: https://x.com/wh0am1_dev
 [itch.io]: https://wh0am1-dev.itch.io
 [tumblr]: https://shatteredcontinuum.tumblr.com
-[stats]: https://sourcerer.io/neko250
 [rank]: https://profile.codersrank.io/user/wh0am1-dev
 [vscode]: https://code.visualstudio.com
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
